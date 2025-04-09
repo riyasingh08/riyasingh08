@@ -1,0 +1,43 @@
+# Node modules
+/node_modules/
+
+# Vite cache
+/.vite/
+
+# Build output
+/dist/
+/build/
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory
+.pnp/
+.pnp.js
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Linux system files
+*.swp
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# SCSS compiled files
+*.css.map
+
+# Yarn lock file (if using npm)
+yarn.lock

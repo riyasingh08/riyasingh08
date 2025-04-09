@@ -1,0 +1,372 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/my-photo.jpeg",
+    "title": "Riya <br /> Singh",
+    "subTitle": "Hello, I’m",
+    "designation": "Sr. Software Engineer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpeg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Riya Singh",
+    "subtitle": "Senior Software Engineer & Java Full Stack Developer Developer",
+    "text": "I am a Senior Software Engineer with expertise in building scalable backend systems using Java and Spring Boot, and developing dynamic, responsive frontends with ReactJS. I have hands-on experience in architecting intelligent LLM-based RAG chatbots and optimizing system performance through cloud-native solutions. My work bridges full-stack development with advanced Generative AI, delivering impactful and innovative business applications.",
+    "details": [
+      {
+        "title": "Phone",
+        "info": "+91 8910272822"
+      },
+      {
+        "title": "Email",
+        "info": "riyasingh30082000@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Kolkata , West Bengal - 700058"
+      },
+      {
+        "title": "Languages",
+        "info": "Java, JavaScript"
+      },
+      {
+        "title": "Backend",
+        "info": "Spring Boot"
+      },
+      {
+        "title": "Frontend",
+        "info": "React"
+      },
+      {
+        "title": "Database",
+        "info": "MySQL, MongoDB"
+      },
+      {
+        "title": "Generative AI",
+        "info": "Langchain, AWS Bedrock, Azure OpenAI"
+      },
+      {
+        "title": "Cloud",
+        "info": "AWS, Azure"
+      },
+      {
+        "title": "Certified",
+        "info": "AWS Cloud Practitioner, Google Cloud Certified"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Web Development",
+        "text": "Build scalable web applications using Core Java , Spring Boot , and React with optimized backend solutions and finally hosting them in cloud.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "Craft intuitive, user-centric interfaces adhering to industry standards for seamless user experience and engagement.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "GenAI Chatbot Development",
+        "text": "Develop intelligent chatbots integrating Generative AI, enhancing interactions through React and Java solutions.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "App Development",
+        "text": "Deliver cross-platform apps using React Native, blending functionality with elegant and responsive designs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Generative AI and Large Language Model (LLM) Consulting",
+        "text": "Implement LLM systems with advanced retrievers, optimization techniques, and scalable architectures.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Generative AI Adoption Strategies",
+        "text": "Drive organizational adoption of Generative AI, optimizing workflows with tools like AWS Bedrock and Azure OpenAI.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in the field of work are mentioned.",
+    "text": "I am a Senior Software Engineer at Capgemini with strong expertise in backend development using Java, Spring Boot, and microservices architecture. I have led the design and implementation of LLM-powered RAG systems using tools like LangChain and LlamaIndex, enhancing customer engagement through intelligent chatbot solutions. Proficient in building scalable APIs, optimizing PostgreSQL databases, and deploying services using Docker and Kubernetes. On the frontend, I specialize in ReactJS and Redux to deliver responsive and high-performance user interfaces. I’ve also driven the adoption of Generative AI across projects using AWS Bedrock, Azure OpenAI, and performance evaluation frameworks like MLflow and RAGAS. Known for exceeding expectations in Agile teams, I consistently deliver innovative, production-ready solutions.",
+    "skills": [
+      {
+        "title": "Java",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Spring Boot",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "React",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "JavaScript",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Generative AI",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Azure",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "AWS",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Gynere.com",
+        "subTitle": "Website for a Startup",
+        "link": "https://www.gynere.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "AskmeA2Z",
+        "subTitle": "Affiliate Marketing Website",
+        "link": "https://www.askmea2z.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Menu91",
+        "subTitle": "Menu Management System",
+        "link": "https://www.menu91.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Msg Bix",
+        "subTitle": "Bulk SMS Service Provider",
+        "link": "https://msgbix.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "GenFlow",
+        "subTitle": "LLM Powered Chatbot",
+        "link": "https://github.com/Ayush-Khamrui/GenFlow-AI-Powered-Document-Intelligence",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "HealthGPT",
+        "subTitle": "Chatbot for Health",
+        "link": "https://github.com/Ayush-Khamrui/HealthGPT",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog5.jpg",
+        "designation": "Riya Singh",
+        "date": "04-10-2024",
+        "title": "Mastering Microservices with Spring Boot",
+        "href": "https://www.linkedin.com/posts/riya-singh-30_30daysofspringboot-springboot-java-activity-7244671691031805952-2s7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLSJCIBX19vJWmNrkbXm1o8iRRopit65es"
+      },
+      {
+        "imgLink": "/images/blog/blog5.jpg",
+        "designation": "Riya Singh",
+        "date": "10-10-2024",
+        "title": "Request Mapping Decoded",
+        "href": "https://www.linkedin.com/posts/riya-singh-30_30daysofspringboot-springboot-java-activity-7252359986377375745-poS2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLSJCIBX19vJWmNrkbXm1o8iRRopit65es"
+      },
+      {
+        "imgLink": "/images/blog/blog5.jpg",
+        "designation": "Riya Singh",
+        "date": "02-10-2024",
+        "title": "Mastering HTTP Verbs in Spring Boot APIs",
+        "href": "https://www.linkedin.com/posts/riya-singh-30_30daysofspringboot-springboot-java-activity-7251984045801107459-Y6KY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLSJCIBX19vJWmNrkbXm1o8iRRopit65es"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Spriha Srivastava",
+        "designation": "Senior Consultant",
+        "text": "Riya is an exceptional full stack developer with a unique flair for Gen AI development. I had the privilege of managing her directly, witnessing her outstanding ability to navigate complex projects with ease. Riya seamlessly integrates cutting-edge technologies into her work, delivering innovative solutions that exceed expectations. He brings a rare combination of technical expertise, creativity, and dedication to every task, making her an invaluable asset to any team. I highly recommend Riya for her exceptional skills and unwavering commitment to excellence."
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Areef Sheik",
+        "designation": "Consultant",
+        "text": "Riya is an exceptional researcher with a deep understanding of GenAI tools and technologies, particularly in the realm of LLMs. I had the privilege of collaborating closely with her, where her profound expertise significantly advanced our GenAI adoption efforts. He combines a rare depth of technical knowledge, consistently delivering solutions that address complex challenges. her ability to demystify advanced concepts and drive meaningful implementation makes her an invaluable asset to any organization. I highly recommend Riya for her skills, vision, and dedication."
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Arman Khan",
+        "designation": "Consultant",
+        "text": "Riya is an exceptional professional with expertise spanning full-stack development, GenAI Technologies. I had the privilege of working with her directly, witnessing her ability to handle complex projects with ease. her proficiency in React and delivering seamless user experiences complements her understanding of GenAI and her contributions towards its adoption. Riya combines technical expertise & creativity delivering innovative solutions that exceed expectations. He is an invaluable asset to any team, and I highly recommend her for her remarkable skills."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "duration": "Oct 2022 - Present",
+        "subTitle": "Capgemini, Bangalore",
+        "text": "Led cross-functional teams in architecting advanced LLM-based RAG systems using AWS Bedrock, Azure OpenAI, LangChain, and LlamaIndex to enhance customer interaction for a global restaurant chain. Developed scalable backend microservices using Java and Spring Boot, integrated PostgreSQL, Redis, and asynchronous messaging via RabbitMQ, and improved system availability using Eureka. Also enhanced frontend functionality with ReactJS and Redux, ensuring smooth and responsive chatbot interfaces."
+      },
+      {
+        "title": "Software Engineer Intern",
+        "duration": "Mar 2022 - Oct 2022",
+        "subTitle": "Capgemini, Mumbai",
+        "text": "I built an \"Flight Booking\" platform, developing a dynamic React frontend and integrating it with a robust backend to enable seamless booking and service management."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Technology in Electrical Engineering",
+        "duration": "2018 - 2022",
+        "subTitle": "Maulana Abul Kalam Azad University of Technology, West Bengal"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visit my social profile and get connected",
+    "text": "Want to know more about me or just for networking. Need any professional advice or just want to say hello."
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/_riyaa.singh__/"
+    },
+    {
+      "icon": "facebook",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/profile.php?id=100072956220979"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/riya-singh-30/"
+    }
+  ]
+}
