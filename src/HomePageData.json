@@ -10,7 +10,7 @@
     "imgLink": "/images/section/about.jpeg",
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Riya Singh",
-    "subtitle": "Senior Software Engineer & Java Full Stack Developer Developer",
+    "subtitle": "Senior Software Engineer & Java Full Stack Developer",
     "text": "I am a Senior Software Engineer with expertise in building scalable backend systems using Java and Spring Boot, and developing dynamic, responsive frontends with ReactJS. I have hands-on experience in architecting intelligent LLM-based RAG chatbots and optimizing system performance through cloud-native solutions. My work bridges full-stack development with advanced Generative AI, delivering impactful and innovative business applications.",
     "details": [
       {
